@@ -8,5 +8,9 @@ echo "jai Jaganath"
 echo "i was living at rkl"
 echo "deployment"
 echo "This is new branch"
+<<<<<<< HEAD
+echo "Today is Sunday"
+=======
 echo "new branch created"
 echo "Today Saturday"
+>>>>>>> 9b234d455a9f1a21aa8125f4c4c8b86445d6452a
